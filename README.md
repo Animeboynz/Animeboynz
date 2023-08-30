@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Animeboynz&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Animeboynz&layout=compact&theme=dracula" />
