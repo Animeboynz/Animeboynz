@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 # 💻 Tech Stack:
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -57,6 +57,7 @@ Here are some ideas to get you started:
   <img height="170" src="https://streak-stats.demolab.com/?user=Animeboynz&theme=dracula" />
 </p>
 
+# 👨‍💻 Favorite Repos:
 <p align="center">
   <a href="https://github.com/Animeboynz/Mihon-Backup-Viewer">
     <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Animeboynz&repo=Mihon-Backup-Viewer&theme=dracula&description_lines_count=2" />
